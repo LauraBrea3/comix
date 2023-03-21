@@ -14,7 +14,8 @@ function App() {
     fontSize: 18,
     letterSpacing: 1,
     border: "2px solid #1ECD97",
-    borderRadius: 15
+    borderRadius: 15,
+    cursor: "pointer"
   };
 
   return (
